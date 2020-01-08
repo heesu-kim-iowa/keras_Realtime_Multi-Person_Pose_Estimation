@@ -2,7 +2,7 @@
 This is for a seat belt detection project.
 
 # Development Envorinment
-* OS: ***Windows 10***
+* OS: ***Linux***
 * ***Python 3.7***
 
 # Package Setup
