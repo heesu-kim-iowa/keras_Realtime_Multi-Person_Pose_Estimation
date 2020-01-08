@@ -125,3 +125,5 @@ Please cite the paper in your publications if it helps your research:
       year = {2017}
       }
 	  
+# Development Note
+* `/addin` is impossible to be checkoud out. Instead, you need to download or clone it separately if you are going to use it.
